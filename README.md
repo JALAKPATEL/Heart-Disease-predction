@@ -18,4 +18,4 @@ The model selects the five best features for prediction:
 
 4. Number of Major Vessels (ca)
 
-5 .Thalassemia Test Result (thal)
+5. Thalassemia Test Result (thal)
